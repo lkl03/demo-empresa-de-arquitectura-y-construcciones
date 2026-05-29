@@ -1,2 +1,7 @@
-# demo-empresa-de-arquitectura-y-construcciones
-Demo web para Empresa de Arquitectura y Construcciones SRL — diseñada por eterlab.
+# Empresa de Arquitectura y Construcciones SRL
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
